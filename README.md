@@ -4,6 +4,8 @@
 
 ![迪丽热巴](https://github.com/WD2016GitBuild/Underscore.js/blob/master/images/1.jpg)
 
+### each
+
 ```
 _.each([1, 2, 3], alert);
 => alerts each number in turn...
